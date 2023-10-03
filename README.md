@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Proyecto 3ro
+- - 📫 How to reach me: juanodazzio@gmail.com
 <!--
 **JJaime1/JJaime1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
